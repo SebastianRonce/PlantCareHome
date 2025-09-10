@@ -1,4 +1,4 @@
-# Proyecto: Aplicación Móvil de Cuidado de Plantas "PlantCareHome"
+# Proyecto: Aplicación Móvil de Cuidado de Plantas "Plant Care Home"
 
 Este proyecto presenta el desarrollo de una aplicación móvil diseñada para manejar una base de datos de plantas domésticas comunes en la provincia de Ubaté, Cundinamarca brindando información para su cuidado.
 
