@@ -1,4 +1,4 @@
-Proyecto: Aplicación Móvil de Cuidado de Plantas "PlantCareHome"
+  Proyecto: Aplicación Móvil de Cuidado de Plantas "PlantCareHome"
 
 Las plantas son seres vivos que son de vital importancia para la naturaleza, por su importante función de proveer oxígeno, alimento, madera, combustible y diferentes remedios, también son muy utilizadas por sus características ornamentales. Además, de ser el hábitat de numerosas especies de animales, regulan la temperatura y proporcionan un equilibrio en los ecosistemas (R.Castañeda Sifuentes, J Albán Castillo, 2016)
 
