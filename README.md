@@ -1,6 +1,6 @@
 # Proyecto: Aplicación Móvil de Cuidado de Plantas "PlantCareHome"
 
-Este proyecto presenta el desarrollo de una aplicación móvil diseñada para gestionar una base de datos de plantas domésticas comunes en Colombia, brindando información para su cuidado y fomentando la conexión con la naturaleza.
+Este proyecto presenta el desarrollo de una aplicación móvil diseñada para manejar una base de datos de plantas domésticas comunes en la provincia de Ubaté, Cundinamarca brindando información para su cuidado.
 
 # Descripción
 
