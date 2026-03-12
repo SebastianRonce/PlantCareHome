@@ -2,7 +2,10 @@
 from datos_plantas import obtener_datos_plantas
 
 class planta:
-    def __init__(self, codigo: int, nombre: str, temperatura: str, riego: str, tiempo_riego: str, altura: str, recomendacion: str):
+    def __init__(self, codigo: int, nombre: str, 
+    temperatura: str, riego: str, tiempo_riego: str, 
+    altura: str, recomendacion: str):
+    
         self.codigo = codigo
         self.nombre = nombre
         self.temperatura = temperatura
@@ -23,7 +26,7 @@ class planta:
         print("----------------------------------------------------------------------------------------------")
         
 plantas: list[planta] = []
-favoritos: list[planta] = []
+favoritos: list[planta] = []    
 
 def cargar_plantas():
     """Carga las plantas desde el archivo de datos externo"""
